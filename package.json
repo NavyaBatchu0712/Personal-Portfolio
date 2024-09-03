@@ -22,6 +22,7 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
+    "homepage": "https://navyabatchu0712.github.io/Personal-Portfolio/",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
